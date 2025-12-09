@@ -123,4 +123,11 @@ sudo apt install dotnet-sdk-8.0
 ```
 
 # nvim
-# nvim
+## .NET SDK Soluciones para “failed to install fsautocomplete”
+```bash
+brew install dotnet-sdk
+```
+```bash
+sudo apt install dotnet-sdk-8.0
+```
+
