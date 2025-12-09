@@ -113,7 +113,14 @@ dotnet tool install -g dotnet-omnisharp
 git clone https://github.com/OmniSharp/omnisharp-roslyn.git
 cd omnisharp-roslyn
 ./build.sh
+
+# .NET SDK Soluciones para “failed to install fsautocomplete”
+```bash
+brew install dotnet-sdk
 ```
-# nvim
+```bash
+sudo apt install dotnet-sdk-8.0
+```
+
 # nvim
 # nvim
